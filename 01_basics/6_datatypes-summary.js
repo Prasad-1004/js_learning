@@ -27,3 +27,17 @@ let myObj = {
 const myFunction = function(){
     console.log("Hello Jit");
 }                                                       //function
+
+
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//There are two types of memory 
+
+// Stack Memory  (It is used in Primitive datatypes) (Call by value)
+
+// Heap Memory   (It is used in Non-Primitive datatypes) (Call by reference)
+
